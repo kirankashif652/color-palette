@@ -1,0 +1,240 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.main{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+body {
+   background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRUK5rjklUVIaSrFMcPnxFB7OLE6qtUekTQ&s);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-color: gray;
+}
+h1 {
+   margin-top: 50px;
+    color: purple;
+    text-align: center;
+    margin-right: 215px;
+  font-weight: bold;
+    font-size: 90px;
+    text-shadow: 2px 2px  #03bd94;
+}
+
+    
+
+
+.user1,.user2,.user3,.user4,.user5,.user6,.user7,.user8,.user9,.user10
+{
+     width:  100px;
+    height: 100px;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    margin: 0 auto;
+    border: 5px solid white;
+
+}
+.user11,.user12,.user13,.user14,.user15,.user16,.user17,.user18,.user19
+{
+  width:  100px;
+    height: 100px;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 5px solid white;
+}
+.user20,.user21,.user22,.user23,.user24,.user25,.user26,.user27,.user28,.user29,.user30
+{
+  width:  100px;
+    height: 100px;
+    display: flex;
+
+    border-radius: 50%;
+    position: absolute;
+    margin: 80px auto;
+    border: 5px solid white;
+}
+.user0 {
+    background-color: rgb(180, 74, 74);
+    left: 10%;
+    z-index: 1;
+}
+.user1{
+  background-color: rgb(204, 114, 114);
+  left: 10%;
+  z-index: 1;
+}
+.user2 {
+    background-color: rgb(163, 105, 105);
+    left: 15%;
+  z-index: 1;
+
+}
+
+.user3 {
+    background-color: rgb(231, 133, 133);
+    left: 20%;
+    z-index: 1;
+
+}
+
+.user4 {
+    background-color: rgb(219, 117, 117);
+    left: 25%;
+    z-index: 1;
+}
+
+.user5 {
+    background-color:rgb(212, 126, 126) ;
+    left: 30%;
+    z-index: 1;
+}
+
+.user6 {
+    background-color: rgb(224, 142, 142);
+    left: 35%;
+    z-index: 1;
+}
+
+.user7 {
+    background-color: rgb(216, 95, 139);
+    left: 40%;
+    z-index: 1;
+}
+
+.user8 {
+    background-color: rgb(255, 128, 192);
+    left: 45%;
+    z-index: 1;
+}
+
+.user9 {
+    background-color: rgb(255, 0, 127);
+    left: 50%;
+    z-index: 1;
+}
+.user10{
+  background-color: rgb(255, 153, 204);
+    left: 50%;
+    z-index: 1;
+}
+
+
+.user11 {
+    background-color:  rgb(32, 109, 83);
+    left: 10%;
+}
+
+.user12 {
+    background-color: rgb(40, 119, 93);
+    left: 15%;
+}
+
+.user13 {
+    background-color: rgb(67, 131, 109);
+    left: 20%;
+}
+
+.user14 {
+    background-color: rgb(88, 148, 128);
+    left: 25%;
+}
+
+.user15 {
+    background-color:  rgb(85, 182, 150);
+    left: 30%;
+}
+
+.user16 {
+    background-color:  rgb(79, 202, 161);
+    left: 35%;
+}
+
+.user17 {
+    background-color: rgb(43, 224, 164);
+    left: 40%;
+}
+
+.user18 {
+    background-color: rgb(59, 228, 171);
+    left: 45%;
+}
+
+.user19 {
+    background-color:  rgb(104, 245, 198);
+    left: 50%;
+}
+
+
+
+
+.user21 {
+  background-color: rgb(139, 36, 139);
+  
+    left: 10%;
+}
+
+.user22 {
+    background-color: rgb(150, 52, 150);
+    left: 15%;
+}
+
+.user23 {
+    background-color: rgb(180, 69, 180);
+    left: 20%;
+}
+
+.user24 {
+    background-color: rgb(223, 52, 223);
+    left: 25%;
+}
+
+.user25 {
+    background-color:rgb(236, 51, 236);
+    left: 30%;
+}
+
+.user26 {
+    background-color:rgb(248, 110, 248);
+    left: 35%;
+}
+
+.user27 {
+    background-color: rgb(241, 149, 241);;
+    left: 40%;
+}
+
+.user28 {
+    background-color:rgb(233, 159, 233);
+    left: 45%;
+}
+
+.user29 {
+    background-color: rgb(245, 165, 245);
+    left: 50%;
+}
+.user30{
+  background-color: rgb(233, 173, 233);
+  left: 55%
+}
+
+h2{
+    margin-bottom: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: start;
+  color: rgb(17, 22, 20);
+  font-family: "Anton SC", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 40px;
+}
